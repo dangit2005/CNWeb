@@ -1,0 +1,5 @@
+1. Request URL: https://tlu.edu.vn/
+2. Request Method: GET
+3. Status Code: O(XANH LÁ) 200 OK
+
+Ý nghĩa của Report-To trong response header là gì và hệ thống sẽ gửi báo cáo lỗi đến đâu?
