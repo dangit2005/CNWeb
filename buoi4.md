@@ -1,6 +1,6 @@
 A:code hoàn thiện:
 ////////////////////
-![Code hoàn thiện](./imgs/buoi4/notefullcode.txt)
+[Code hoàn thiện](./imgs/buoi4/notefullcode.txt)
 B: Ảnh chụp màn hình kết quả:
 /////////////////////////////
 1:màn hình tab "Browse" (Duyệt) của bảng sinhvien
